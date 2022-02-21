@@ -13,6 +13,7 @@ header{
     padding: 15px;
     color: white;
     min-height: 60px; /*adding height for background*/
+    z-index: 1;
 }
 p {
     font-family: 'Poppins', sans-serif; 
