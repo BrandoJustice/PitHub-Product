@@ -70,10 +70,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 ### MVP Proposal
-https://github.com/EricJPogue/pithub/blob/main/MVP.md
+https://github.com/BrandoJustice/PitHub-Product/blob/main/MVP.md
 
 ### CI/CD Workflow
-https://github.com/EricJPogue/pithub/blob/main/CI_CD.md
+https://github.com/BrandoJustice/PitHub-Product/blob/main/CI_CD.md
 
 ### `Credits:`
 Brandon Justice
