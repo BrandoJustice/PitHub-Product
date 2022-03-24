@@ -56,7 +56,7 @@
                     <li><a href="About.html">About</a></li>
                     <li><a href="Contact.html">Contact</a></li>
                      <br>
-                    <li><a href="Login.html">Login</a></li>
+                    <li><a href="https://pithub.azurewebsites.net/">Login/Register</a></li>
                      
                   </ul>
                 </div>
