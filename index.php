@@ -54,7 +54,7 @@
                   <ul>
                    <li><a href="Index.html">Home</a></li>
                     <li><a href="About.html">About</a></li>
-                    <li><a href="Contact.html">Contact</a></li>
+                    <li><a href="https://codesquadteampage.azurewebsites.net/" target="_blank">CodeSquad</a></li>
                      <br>
                     <li><a href="https://pithub.azurewebsites.net/">Login/Register</a></li>
                      
