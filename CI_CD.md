@@ -9,7 +9,12 @@ We will configure the end-user environment for testing and development by keepin
 # Sustainably document CI/CD team philosophy and detailed implementation:
 To implement our CI/CD pipeline, we will create a server list architecture using containers that will help us package and ship applications in a portable way and make our scale up or tear down the environment easily. The CI/CD development environment will be hosted live through Azure or AWS. Our development environment will help us keep to the CI/CD Pipeline and have many opportunities for testing and learning to develop the most successful user-friendly video management system.  
 
-We will each develop sections of the video management system and continuously collaborate through the development process, including testing earlier and testing often. Each team member from the development team will document each step of the process, including failures, bugs, and solutions in our team discord.  
+We will each develop sections of the video management system and continuously collaborate through the development process, including testing earlier and testing often. Each team member from the development team will document each step of the process, including failures, bugs, and solutions in our team discord.
 
-We will create a google doc that the users can access quickly and report their interactions or experiences with the PitHub video management system. We will also have live testing sessions on zoom to understand the user's experiences with Pithub. 
+Our PitHub product will be coded with node.js for the front-end and express.js for the back-end. It will be hosted on an Azure node 14 LTS and Linux server with MongoDB for user authentication and encryption with a secure login and register system.
+
+We have created a google doc survey that the users can access quickly and report their interactions or experiences with the PitHub video management system.
+We will also have live testing sessions on zoom to understand the user's experiences with Pithub. 
+
+
 
